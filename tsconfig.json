@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"rootDir": "src/",
+		"module": "ESNext",
+		"moduleResolution": "node",
+		"noImplicitAny": true,
+		"sourceMap": true,
+		"baseUrl": ".",
+		"paths": {
+			"*": ["node_modules/*"]
+		},
+		"strictNullChecks": true,
+	},
+	"include": [
+		"src/**/*"
+	]
+}
