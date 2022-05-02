@@ -12,7 +12,7 @@
   },
   "type": "commonjs",
   "author": "",
-  "license": "ISC",
+  "license": "GNU",
   "dependencies": {
     "colors": "^1.4.0",
     "commander": "^8.3.0",
